@@ -62,8 +62,8 @@ matlab -nodesktop -nosplash -r observationModelSearch
 ```
 * the resulting figure is shown in below:
 <p float="left">
-  <img width="450" src="results/observation_model_3d.png" alt="observation_model_3d" />
-  <img width="450" src="results/observation_model_contour_paper.png" alt="observation_model_contour_paper"  /> 
+  <img width="400" src="results/observation_model_3d.png" alt="observation_model_3d" />
+  <img width="400" src="results/observation_model_contour_paper.png" alt="observation_model_contour_paper"  /> 
 </p>
 
 ***Detection Model***
