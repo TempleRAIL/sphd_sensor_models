@@ -1,17 +1,22 @@
 Name:        botttle_measurement_model.bag
+
 Duration:    19:59s (1199s)
 Start:       Sep 20 2020 17:12:55.34 
 End:         Sep 20 2020 17:32:55.04 
+
 Size:        4.7 GB
+
 Messages:    149857
+
 Types:       nav_msgs/OccupancyGrid     
              sensor_msgs/Image          
              sphd_msgs/SPHDMeasurements 
              tf2_msgs/TFMessage         
+             
 Topics:      /darknet_ros/detection_image     3543 msgs    : sensor_msgs/Image         
              /map                                1 msg     : nav_msgs/OccupancyGrid    
              /sphd_measurements               3585 msgs    : sphd_msgs/SPHDMeasurements
              /tf                            142727 msgs    : tf2_msgs/TFMessage        
              /tf_static                          1 msg     : tf2_msgs/TFMessage
-Download link: https://drive.google.com/file/d/1CIkUx9RZVDSVsfqU2AfjtJ25OEFY1jbi/view?usp=sharing
-
+             
+Download link: https://10.5281/zenodo.7065974 
